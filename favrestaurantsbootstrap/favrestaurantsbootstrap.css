@@ -1,0 +1,41 @@
+h1 {text-indent: 250px;
+	color: solid black;
+	font-size: 50px;
+	}
+
+h2 {background-color: black;
+	color: white;
+	font: bold;
+	font-family: Arial;
+	
+}
+
+.col {height: 500px; width: 200px;
+	border: 15px solid black; 
+	padding: 20px;
+	background-color: gray;
+	margin: 1.5% 1.5% 0 1.5%;
+}
+	
+body {background-color: coral
+	 }
+
+
+p {font-weight: bold;
+	color: black;
+	font-size: 15px;
+
+}
+.display-4 {border: 15px solid black;
+			font-size: 15px;
+			background-color: gray;
+
+}
+.jumbotron {padding-top: 10px;
+			padding-bottom:0px;
+			background-size: cover;
+			background-color: black;
+			color: white;
+			margin-left: 175px;
+			margin-right: 175px;
+ }
