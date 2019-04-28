@@ -1,11 +1,7 @@
-var bottle = 99;
+let cups = 1
 
-for (bottle; bottle >= 0; bottle --){
-
-  if (bottle === 0) {
-    console.log("Hey! Go buy more beer!");
-  } else {
-      console.log(bottle + " bottles of beer on the wall");
-  }
+if(cups < 3){
+    console.log("Yes. I'll take another cup of coffee!");
+} else {
+    console.log("I think I'm okay for now.");
 }
-  
